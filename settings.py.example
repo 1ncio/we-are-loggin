@@ -1,0 +1,8 @@
+# this is the settings file
+# to activate it rename it to settings.py
+# also replace all the fields with your settings
+
+WEBHOOK = "<YOUR_WEBHOOK_LINK_HERE>"
+HOST = "0.0.0.0"
+PORT = 5000
+DEBUG = False
